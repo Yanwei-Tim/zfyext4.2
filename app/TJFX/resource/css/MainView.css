@@ -1,0 +1,94 @@
+.navTitle .x-panel-body{
+    background: url("../imgs/titlebg.png") repeat-x;
+}
+
+.navTitle .x-unselectable .x-btn-inner{
+    color: #fff;
+}
+
+.navTitle .x-btn-pressed .x-btn-inner{
+    color: #297fb8;
+}
+
+.navTitle .x-btn.x-unselectable{
+    background: url("../imgs/unselectBtn.png") no-repeat;
+}
+
+.navTitle .x-btn.x-btn-pressed{
+    background: url("../imgs/selectBtn.png") no-repeat;
+}
+
+.condition_label{
+	padding-top: 5px;
+	font-weight: bold;
+}
+
+.conditionPanel{
+	padding-top: 9px;
+	padding-left: 12px;
+    border-bottom:1px solid #ccc;
+}
+
+.condition_label {
+    padding-top: 5px;
+    font-weight: bold;
+}
+
+.conditionPanel {
+    padding-top: 9px;
+    padding-left: 12px;
+}
+
+.condition_combo {
+
+}
+
+/***************************************************************************/
+#tjfx_tjsj_btn.x-unselectable {
+    background: url("../imgs/tjsj1.png") no-repeat;
+}
+
+#tjfx_tjsj_btn:hover {
+    background: url("../imgs/tjsj2.png") no-repeat;
+}
+
+#tjfx_tjsj_btn.x-btn-pressed {
+    background: url("../imgs/tjsj3.png") no-repeat;
+}
+
+/***************************************************************************/
+#tjfx_qst_btn.x-unselectable {
+    background: url("../imgs/qst1.png") no-repeat;
+}
+
+#tjfx_qst_btn:hover {
+    background: url("../imgs/qst2.png") no-repeat;
+}
+
+#tjfx_qst_btn.x-btn-pressed {
+    background: url("../imgs/qst3.png") no-repeat;
+}
+
+/***************************************************************************/
+#tjfx_qsdbt_btn.x-unselectable {
+    background: url("../imgs/qsdbt1.png") no-repeat;
+}
+
+#tjfx_qsdbt_btn:hover {
+    background: url("../imgs/qsdbt2.png") no-repeat;
+}
+
+#tjfx_qsdbt_btn.x-btn-pressed {
+    background: url("../imgs/qsdbt3.png") no-repeat;
+}
+
+/***************************************************************************/
+.actionText {
+    text-decoration: none;
+}
+
+.disablePlay{
+    cursor: default;
+    color: #ccc;
+    text-decoration: none;
+}

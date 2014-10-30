@@ -1,0 +1,48 @@
+.ie_main{
+    position:absolute;
+    top:50%;
+    left: 50%;
+    margin-top:-190px;
+    margin-left:-294px;
+
+    font-family: "宋体";
+    display: block;
+    width: 588px;
+    height: 300px;
+    border: 1px solid #ccc2ff;
+    padding: 30px 50px;
+}
+
+.ie_left{
+    width: 160px;
+    height: 160px;
+    float: left;
+    background-image: url("../imgs/IE.png");
+}
+
+.ie_right{
+    padding: 30px 0px;
+    margin-left: 190px;
+}
+
+.ie_title{
+    color: #2d3e50;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.ie_content{
+    margin-top: 30px;
+    color: #7e8c8d;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.ie_download{
+    margin-top: 40px;
+    padding-left: 26px;
+    background: url("../imgs/download.png") no-repeat;
+}
+.ie_download a{
+    text-decoration: none;
+}

@@ -1,0 +1,59 @@
+*{
+    font-family: "宋体";
+}
+#Login_SubmitField table{display: none}
+.Login_MainView{
+    background: url("../imgs/bg.png") repeat-x;
+}
+.a800{
+    overflow: auto !important;
+}
+.Login_Pic{
+    margin: 94px auto 0 auto;
+}
+
+.Login_Pic .x-panel-body{
+    background: url("../imgs/main.jpg") no-repeat;
+}
+
+.Login_TextField{
+    border: none;
+}
+
+.Login_TextField .x-form-field{
+    background: none;
+    border: none;
+}
+
+.Login_SubmitField.x-unselectable{
+    background: url("../imgs/btn01.png") no-repeat;
+}
+
+.Login_SubmitField:hover{
+    height:52px;
+    width:150px;
+    background: url("../imgs/btn02.png") no-repeat;
+}
+.Login_SubmitField.x-btn-pressed{
+    background: url("../imgs/btn03.png") no-repeat;
+}
+
+.Login_LabelField{
+    color: red;
+    line-height: 28px;
+}
+
+
+
+.Login_PKI_SubmitField.x-unselectable{
+    background: url("../imgs/PKI01.png") no-repeat;
+}
+
+.Login_PKI_SubmitField:hover{
+    height:52px;
+    width:150px;
+    background: url("../imgs/PKI02.png") no-repeat;
+}
+.Login_PKI_SubmitField.x-btn-pressed{
+    background: url("../imgs/PKI02.png") no-repeat;
+}
