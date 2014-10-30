@@ -1,0 +1,155 @@
+.navTitle .x-panel-body {
+    background: url("../imgs/titlebg.png") repeat-x;
+}
+
+
+.navTitle .x-unselectable .x-btn-inner{
+    color: #fff;
+}
+.navTitle .x-btn-pressed .x-btn-inner, .point.x-btn-pressed .x-btn-inner{
+    color: #297fb8;
+}
+
+/*.navTitle .x-btn.x-unselectable{
+    background: url("../imgs/unselectBtn.png") no-repeat;
+}
+
+.navTitle .x-btn.x-btn-pressed{
+    background: url("../imgs/selectBtn.png") no-repeat;
+}*/
+
+.condition_label {
+    padding-top: 5px;
+    font-weight: bold;
+}
+
+.conditionPanel {
+    padding-top: 9px;
+    padding-left: 12px;
+}
+
+.condition_combo {
+
+}
+
+/***************************************************************************/
+#zfjd_rccc_btn.x-unselectable {
+    background: url("../imgs/rcccBtn1.png") no-repeat;
+}
+
+#zfjd_rccc_btn:hover {
+    background: url("../imgs/rcccBtn2.png") no-repeat;
+}
+
+#zfjd_rccc_btn.x-btn-pressed {
+    background: url("../imgs/rcccBtn3.png") no-repeat;
+}
+
+/***************************************************************************/
+#zfjd_ycjd_btn.x-unselectable {
+    background: url("../imgs/ycjdBtn1.png") no-repeat;
+}
+
+#zfjd_ycjd_btn:hover {
+    background: url("../imgs/ycjdBtn2.png") no-repeat;
+}
+
+#zfjd_ycjd_btn.x-btn-pressed {
+    background: url("../imgs/ycjdBtn3.png") no-repeat;
+}
+
+/***************************************************************************/
+#zfjd_jdkp_btn.x-unselectable {
+    background: url("../imgs/jdkpBtn1.png") no-repeat;
+}
+
+#zfjd_jdkp_btn:hover {
+    background: url("../imgs/jdkpBtn2.png") no-repeat;
+}
+
+#zfjd_jdkp_btn.x-btn-pressed {
+    background: url("../imgs/jdkpBtn3.png") no-repeat;
+}
+
+/***************************************************************************/
+#zfjd_spxx_btn.x-unselectable {
+    background: url("../imgs/xpxx1.png") no-repeat;
+}
+
+#zfjd_spxx_btn:hover {
+    background: url("../imgs/xpxx2.png") no-repeat;
+}
+
+#zfjd_spxx_btn.x-btn-pressed {
+    background: url("../imgs/xpxx3.png") no-repeat;
+}
+#zfjd_bjxx_btn.x-unselectable {
+    background: url("../imgs/bjxx1.png") no-repeat;
+}
+
+#zfjd_bjxx_btn:hover {
+    background: url("../imgs/bjxx2.png") no-repeat;
+}
+
+#zfjd_bjxx_btn.x-btn-pressed {
+    background: url("../imgs/bjxx3.png") no-repeat;
+}
+
+
+/***************************************************************************/
+#zfjd_xzwj_btn.x-unselectable {
+    background: url("../imgs/downloadNormal.png") no-repeat;
+}
+
+#zfjd_xzwj_btn:hover {
+    background: url("../imgs/downloadNormal.png") no-repeat;
+}
+
+#zfjd_xzwj_btn.x-btn-pressed {
+    background: url("../imgs/downloadNormal.png") no-repeat;
+}
+
+/***************************************************************************/
+.actionText {
+    text-decoration: none;
+}
+
+#zfjd_rccc_grid .x-grid-cell {
+    vertical-align: middle;
+}
+
+#zfjd_cksp_west {
+    border-right: 1px solid #000000 !important
+}
+
+.rccc_pupowindow_jbxx, .rccc_pupowindow_glsj {
+    background-color: #C0C0C0;
+    display: block;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+    width: 222px;
+}
+
+#zfjd_pjdf_north .x-toolbar-footer {
+    background: none !important
+}
+
+.disablePlay {
+    cursor: default;
+    color: #ccc;
+    text-decoration: none;
+}
+
+.zfjd_cksp_kzxx_displayfield .x-form-display-field {
+    height: 18px;
+    overflow: hidden
+}
+
+#rccc_pupowindow_xzsp{
+    width: 300px;
+    height: 26px;
+    margin: 8px;
+    font-size: 14px;
+    font:-webkit-small-control;
+}

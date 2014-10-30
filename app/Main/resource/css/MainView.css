@@ -1,0 +1,195 @@
+/*预加载图片*/
+.a800{
+    overflow: auto !important;
+}
+*{
+    font-family: "宋体";
+}
+.banner{
+    border-bottom: 2px solid #162936;
+}
+.navTitle .x-btn  table , .logo  .x-btn table, .menu  .x-btn table,#zfjd_xzwj_btn table{/*大按钮样式*/
+    display: none;
+}
+.banner .x-panel-body{
+    background: url("../imgs/work_head_background.bmp") repeat-x;
+}
+
+.logo .x-panel-body{
+     background: url("../imgs/work_head_logo.png") no-repeat;
+}
+
+.menu .x-panel-body{
+    background: url("../imgs/background_nav.png") repeat-y;
+}
+
+/*.x-btn-default-small .x-btn-inner*/
+.menu .x-btn .x-btn-inner{
+    font-size: 15px;
+}
+
+.menu .x-btn.x-unselectable{
+    background: url("../imgs/button_nav_normal.png") no-repeat;
+}
+
+.menu .x-btn.x-btn-over{
+    background: url("../imgs/button_nav_hover.png") no-repeat;
+}
+
+.menu .x-btn.x-btn-pressed{
+    background: url("../imgs/button_nav_pressed.png") no-repeat;
+}
+
+#main_switch_zfjd_btn.x-unselectable{
+    background: url("../imgs/button_nav_00_normal.png") no-repeat;
+}
+
+#main_switch_zfjd_btn:hover{
+    height:52px;
+    width:150px;
+    background: url("../imgs/button_nav_00_hover.png") no-repeat;
+}
+#main_switch_zfjd_btn.x-btn-pressed{
+    background: url("../imgs/button_nav_00_pressed.png") no-repeat;
+}
+/***************************************************************************/
+#main_switch_yjyp_btn.x-unselectable{
+    background: url("../imgs/button_nav_01_normal.png") no-repeat;
+}
+
+#main_switch_yjyp_btn:hover{
+    height:52px;
+    width:150px;
+    background: url("../imgs/button_nav_01_hover.png") no-repeat;
+}
+#main_switch_yjyp_btn.x-btn-pressed{
+    background: url("../imgs/button_nav_01_pressed.png") no-repeat;
+}
+/***************************************************************************/
+#main_switch_tjfx_btn.x-unselectable{
+    background: url("../imgs/button_nav_02_normal.png") no-repeat;
+}
+
+#main_switch_tjfx_btn:hover{
+    height:52px;
+    width:150px;
+    background: url("../imgs/button_nav_02_hover.png") no-repeat;
+}
+#main_switch_tjfx_btn.x-btn-pressed{
+    background: url("../imgs/button_nav_02_pressed.png") no-repeat;
+}
+/***************************************************************************/
+#main_switch_mjwq_btn.x-unselectable{
+    background: url("../imgs/button_nav_04_normal.png") no-repeat;
+}
+
+#main_switch_mjwq_btn:hover{
+    height:52px;
+    width:150px;
+    background: url("../imgs/button_nav_04_hover.png") no-repeat;
+}
+#main_switch_mjwq_btn.x-btn-pressed{
+    background: url("../imgs/button_nav_04_pressed.png") no-repeat;
+}
+/***************************************************************************/
+#main_switch_rzsj_btn.x-unselectable{
+    background: url("../imgs/button_nav_05_normal.png") no-repeat;
+}
+
+#main_switch_rzsj_btn:hover{
+    height:52px;
+    width:150px;
+    background: url("../imgs/button_nav_05_hover.png") no-repeat;
+}
+#main_switch_rzsj_btn.x-btn-pressed{
+    background: url("../imgs/button_nav_05_pressed.png") no-repeat;
+}
+/***************************************************************************/
+#main_switch_xtgl_btn.x-unselectable{
+    background: url("../imgs/button_nav_06_normal.png") no-repeat;
+}
+
+#main_switch_xtgl_btn:hover{
+    height:52px;
+    width:150px;
+    background: url("../imgs/button_nav_06_hover.png") no-repeat;
+}
+#main_switch_xtgl_btn.x-btn-pressed{
+    background: url("../imgs/button_nav_06_pressed.png") no-repeat;
+}
+/***************************************************************************/
+#main_switch_xxbz_btn.x-unselectable{
+    background: url("../imgs/button_nav_xxbz_normal.png") no-repeat;
+}
+
+#main_switch_xxbz_btn:hover{
+    height:52px;
+    width:150px;
+    background: url("../imgs/button_nav_xxbz_hover.png") no-repeat;
+}
+#main_switch_xxbz_btn.x-btn-pressed{
+    background: url("../imgs/button_nav_xxbz_pressed.png") no-repeat;
+}
+/***************************************************************************/
+.main_Logout.x-unselectable{
+    background: url("../imgs/button_logout_normal.png") no-repeat;
+}
+
+.main_Logout:hover{
+    height:52px;
+    width:150px;
+    background: url("../imgs/button_logout_hover.png") no-repeat;
+}
+.main_Logout.x-btn-pressed{
+    background: url("../imgs/button_logout_pressed.png") no-repeat;
+}
+/***************************************************************************/
+.main_UpdatePwd.x-unselectable{
+    background: url("../imgs/button_updatepwd_normal.png") no-repeat;
+}
+
+.main_UpdatePwd:hover{
+    height:52px;
+    width:150px;
+    background: url("../imgs/button_updatepwd_hover.png") no-repeat;
+}
+.main_UpdatePwd.x-btn-pressed{
+    background: url("../imgs/button_updatepwd_pressed.png") no-repeat;
+}
+/***************************************************************************/
+#main_switch_zfhc_btn.x-unselectable{
+    background: url("../imgs/zfhc_hot.png") no-repeat;
+}
+
+#main_switch_zfhc_btn:hover{
+    height:52px;
+    width:150px;
+    background: url("../imgs/zfhc_normal.png") no-repeat;
+}
+#main_switch_zfhc_btn.x-btn-pressed{
+    background: url("../imgs/zfhc_click.png") no-repeat;
+}
+/***************************************************************************/
+.loginInfo{
+    text-align: right;
+    color: #b7dae6;
+}
+
+#main_updatepwd_form .x-toolbar-footer{
+    background-color: #ffffff;
+}
+.update_pwd_center .x-box-inner{
+    left: 20px;
+}
+/*非现场录入*/
+#main_switch_fxclr_btn.x-unselectable{
+    background: url("../imgs/fxclr2.png") no-repeat;
+}
+
+#main_switch_fxclr_btn:hover{
+    background: url("../imgs/fxclr1.png") no-repeat;
+}
+#main_switch_fxclr_btn.x-btn-pressed{
+    background: url("../imgs/fxclr3.png") no-repeat;
+}
+/**/
